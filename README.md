@@ -19,7 +19,7 @@ nltk.download('wordnet') /
 
 # How to run
 - Jupyter Notebook
-You can run the chatbot.ipynb which also includes step by step instructions.
+# You can run the chatbot.ipynb which also includes step by step instructions.
 
 - Through Terminal
-python chatbot.py
+# python chatbot.py
