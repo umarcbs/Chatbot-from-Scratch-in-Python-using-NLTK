@@ -10,6 +10,7 @@ Natural Language Processing with Python provides a practical introduction to pro
 
 # Installing required packages
 ### After NLTK has been downloaded, install required packages
+```
 `
 import nltk`
 `from nltk.stem import WordNetLemmatizer`
@@ -17,9 +18,12 @@ import nltk`
 `nltk.download('punkt') `
 `nltk.download('wordnet')
 `
+```
 # How to run
 - Jupyter Notebook
 `You can run the chatbot.ipynb which also includes step by step instructions.`
 
 - Through Terminal
+```
 `python chatbot.py`
+```
